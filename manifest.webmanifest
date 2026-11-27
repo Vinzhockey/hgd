@@ -1,0 +1,23 @@
+{
+  "name": "HGD mineur – pilotage",
+  "short_name": "HGD mineur",
+  "description": "Outil de pilotage du hockey mineur des Corsaires de Dunkerque (consultation)",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10254a",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
